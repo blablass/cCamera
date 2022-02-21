@@ -1,0 +1,19 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera,#camera_result
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#Logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#giveAid
+{
+    width: 300px;
+}
